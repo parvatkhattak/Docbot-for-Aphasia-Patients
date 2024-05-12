@@ -1,6 +1,4 @@
 
-import streamlit
-
 import streamlit as st
 import json
 from difflib import get_close_matches
