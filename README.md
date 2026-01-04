@@ -25,8 +25,6 @@ To use the chatbot, follow these steps:
 - `main_terminal.py`: The main source code for the chatbot to work in the terminal via text input and output.
 
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
 
